@@ -16,7 +16,7 @@
   "homepage": "https://github.com/polkadot-js/api/tree/master/packages/api#readme",
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@polkadot/api-derive": "3.7.4-2",
+    "@polkadot/api-derive": "3.11.1",
     "@polkadot/keyring": "^5.5.2",
     "@polkadot/metadata": "3.7.4-2",
     "@polkadot/rpc-core": "3.7.4-2",

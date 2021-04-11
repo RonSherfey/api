@@ -19,7 +19,7 @@
     "@polkadot/api-derive": "3.7.4-2",
     "@polkadot/keyring": "^5.5.2",
     "@polkadot/metadata": "3.7.4-2",
-    "@polkadot/rpc-core": "3.7.4-2",
+    "@polkadot/rpc-core": "3.11.1",
     "@polkadot/rpc-provider": "3.7.4-2",
     "@polkadot/types": "3.7.4-2",
     "@polkadot/types-known": "3.7.4-2",
